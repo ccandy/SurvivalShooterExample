@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: dd500bb3c7fcb43f69f39255db6d3b8c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -731,7 +731,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: db6553e0-02c4-499d-b972-9413daa45854
-  projectName: Space Shooter
+  projectName: SurvivalShooterExample
   organizationId: ccandy
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
